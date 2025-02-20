@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### IGNOR IN SOME SPRİNG FİLE ###
+HELP.md
+mvnw
+mvnw.cmd
+.gitattributes
